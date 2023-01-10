@@ -3,7 +3,7 @@
                                        
         Functions
         
-Admin
+Admin,
 
 Signup their account. Then Login (No approval Required).
 Can register/view/approve/reject/delete doctor (approve those doctor who applied for job in their hospital).
